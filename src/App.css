@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+#amount{
+  width: 15%;
+}
+form{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: auto;
+  width: 20%;
+}
+label{
+  display: flex!important;
+  justify-content: center;
+  align-items: center;
+  padding: 8px!important;
+}
+label p{
+  margin-bottom: 0!important;
+  font-size: 15px;
+  margin-right: 8px;
+}
+label span{
+  font-size: 12px!important;
+}
